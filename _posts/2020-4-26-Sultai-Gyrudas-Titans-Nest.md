@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Sultai Gyruda's Titans' Nest
+tags: []
 ---  
 - 2 key cards: Gyruda, Doom of Depths, and Titan's Nest
 - Companion: Gyruda
