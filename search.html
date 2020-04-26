@@ -7,8 +7,7 @@ layout: page
     <ul id="myUL">
         {% for post in site.posts %}
         <li>
-            <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}<b> | Tags: </b>{% for tag in post.tags %}{{ tag }}, {% endfor %}</a>
-            
+            <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}<br><span class="tags"><b>Tags: </b>{% for tag in post.tags %}{{ tag }}, {% endfor %}</span></a>          
         </li>
         {% endfor %}
     </ul>
