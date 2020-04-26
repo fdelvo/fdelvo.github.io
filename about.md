@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a student who likes to write fiction and non-fiction.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+On this blog I am publishing my non-fiction articles about my favorite topics. These topics are primarily: 
+- Magic The Gathering
+- Films
+- Series
+- Podcasts
+- Books
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[florian.delvo@icloud.com](mailto:florian.delvo@icloud.com)
