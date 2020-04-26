@@ -1,45 +1,7 @@
 ---
 layout: post
 title: Sultai Gyruda's Titans' Nest
----
-MTGA formatted list below image.
-![_config.yml]({{ site.baseurl }}/images/sultai-gyrudas-titans-nest-deck.png)
-> Companion  
-> 1 Gyruda, Doom of Depths (IKO) 221  
-> 
-> Deck  
-> 3 Gyruda, Doom of Depths (IKO) 221  
-> 2 Forest (THB) 254  
-> 4 Titans' Nest (IKO) 212  
-> 2 Swamp (THB) 252  
-> 2 Island (THB) 251  
-> 4 Paradise Druid (WAR) 171  
-> 1 Aether Gust (M20) 42  
-> 4 Spark Double (WAR) 68  
-> 3 Thassa, Deep-Dwelling (THB) 71  
-> 1 Kogla, the Titan Ape (IKO) 162  
-> 1 End-Raze Forerunners (RNA) 124  
-> 3 Heartless Act (IKO) 91  
-> 2 Atris, Oracle of Half-Truths (THB) 209  
-> 4 Watery Grave (GRN) 259  
-> 4 Overgrown Tomb (GRN) 253  
-> 4 Breeding Pool (RNA) 246  
-> 4 Zagoth Triome (IKO) 259  
-> 1 Bonders' Enclave (IKO) 245  
-> 4 Fabled Passage (ELD) 244  
-> 4 Fiend Artisan (IKO) 220  
-> 2 Tamiyo, Collector of Tales (WAR) 220  
-> 1 Polukranos, Unchained (THB) 224  
-> 
-> Sideboard  
-> 1 Gyruda, Doom of Depths (IKO) 221  
-> 4 Destiny Spinner (THB) 168  
-> 2 Aether Gust (M20) 42  
-> 1 Ashiok's Erasure (THB) 43  
-> 2 Wilt (IKO) 176  
-> 4 Leyline of the Void (M20) 107  
-> 1 Legion's End (M20) 106  
-
+---  
 - 2 key cards: Gyruda, Doom of Depths, and Titan's Nest
 - Companion: Gyruda
 - From combo to midrange
@@ -91,3 +53,39 @@ MTGA formatted list below image.
 	- Wilt against hate cards like Grafdigger's Cage
 		- Also effective against Fires decks, or Temur Reclamation
 		- Cycling provides versatility
+![_config.yml]({{ site.baseurl }}/images/sultai-gyrudas-titans-nest-deck.png)
+> Companion  
+> 1 Gyruda, Doom of Depths (IKO) 221  
+> 
+> Deck  
+> 3 Gyruda, Doom of Depths (IKO) 221  
+> 2 Forest (THB) 254  
+> 4 Titans' Nest (IKO) 212  
+> 2 Swamp (THB) 252  
+> 2 Island (THB) 251  
+> 4 Paradise Druid (WAR) 171  
+> 1 Aether Gust (M20) 42  
+> 4 Spark Double (WAR) 68  
+> 3 Thassa, Deep-Dwelling (THB) 71  
+> 1 Kogla, the Titan Ape (IKO) 162  
+> 1 End-Raze Forerunners (RNA) 124  
+> 3 Heartless Act (IKO) 91  
+> 2 Atris, Oracle of Half-Truths (THB) 209  
+> 4 Watery Grave (GRN) 259  
+> 4 Overgrown Tomb (GRN) 253  
+> 4 Breeding Pool (RNA) 246  
+> 4 Zagoth Triome (IKO) 259  
+> 1 Bonders' Enclave (IKO) 245  
+> 4 Fabled Passage (ELD) 244  
+> 4 Fiend Artisan (IKO) 220  
+> 2 Tamiyo, Collector of Tales (WAR) 220  
+> 1 Polukranos, Unchained (THB) 224  
+> 
+> Sideboard  
+> 1 Gyruda, Doom of Depths (IKO) 221  
+> 4 Destiny Spinner (THB) 168  
+> 2 Aether Gust (M20) 42  
+> 1 Ashiok's Erasure (THB) 43  
+> 2 Wilt (IKO) 176  
+> 4 Leyline of the Void (M20) 107  
+> 1 Legion's End (M20) 106
