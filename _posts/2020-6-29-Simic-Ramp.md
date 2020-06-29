@@ -4,7 +4,7 @@ title: A Deck to Grind the Ladder - Simic Ramp
 tags: [Simic, Ramp]
 ---  
 Before I'll start with the article, here's the decklist in visual and MTG Arena form.
-> Deck
+> Deck  
 > 4 Hydroid Krasis (RNA) 183  
 > 4 Island (THB) 251  
 > 10 Forest (THB) 254  
