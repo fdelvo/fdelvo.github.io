@@ -4,30 +4,30 @@ title: A Deck to Grind the Ladder - Simic Ramp
 tags: [Simic, Ramp]
 ---  
 Before I'll start with the article, here's the decklist in visual and MTG Arena form.
-> Deck\
-> 4 Hydroid Krasis (RNA) 183\
-> 4 Island (THB) 251\
-> 10 Forest (THB) 254\
-> 4 Ugin, the Spirit Dragon (M21) 1\
-> 2 Teferi, Master of Time (M21) 75\
-> 4 Uro, Titan of Nature's Wrath (THB) 229\
-> 4 Growth Spiral (RNA) 178\
-> 4 Nissa, Who Shakes the World (WAR) 169\
-> 4 Mazemind Tome (M21) 232\
-> 4 Solemn Simulacrum (M21) 239\
-> 4 Temple of Mystery (M20) 255\
-> 4 Breeding Pool (RNA) 246\
-> 2 Blast Zone (WAR) 244\
-> 4 Fabled Passage (ELD) 244\
-> 2 Mass Manipulation (RNA) 42\
-> \
-> Sideboard\
-> 3 Negate (RIX) 44\
-> 2 Scavenging Ooze (M21) 204\
-> 2 Enthralling Hold (M21) 49\
-> 3 Lovestruck Beast (ELD) 165\
-> 2 Disdainful Stroke (GRN) 37\
-> 3 Sparkhunter Masticore (M21) 240\
+> Deck
+> 4 Hydroid Krasis (RNA) 183  
+> 4 Island (THB) 251  
+> 10 Forest (THB) 254  
+> 4 Ugin, the Spirit Dragon (M21) 1  
+> 2 Teferi, Master of Time (M21) 75  
+> 4 Uro, Titan of Nature's Wrath (THB) 229  
+> 4 Growth Spiral (RNA) 178  
+> 4 Nissa, Who Shakes the World (WAR) 169  
+> 4 Mazemind Tome (M21) 232  
+> 4 Solemn Simulacrum (M21) 239  
+> 4 Temple of Mystery (M20) 255  
+> 4 Breeding Pool (RNA) 246  
+> 2 Blast Zone (WAR) 244  
+> 4 Fabled Passage (ELD) 244  
+> 2 Mass Manipulation (RNA) 42  
+>   
+> Sideboard  
+> 3 Negate (RIX) 44  
+> 2 Scavenging Ooze (M21) 204  
+> 2 Enthralling Hold (M21) 49  
+> 3 Lovestruck Beast (ELD) 165  
+> 2 Disdainful Stroke (GRN) 37  
+> 3 Sparkhunter Masticore (M21) 240  
 
 By now everyone should now the shell of every UGx ramp deck: Growth Spiral, Uro, Nissa, and Hydroid Krasis. Before M21 it was necessary to add White to heave the deck into the competitive metagame. M21 introduced new cards to Standard that enable Simic Ramp to be relevant again.
 
