@@ -1,4 +1,8 @@
-# Mord in Wiesbaden
+---
+layout: post
+title: Mord in Wiesbaden
+tags: [Simic, Ramp]
+---  
 _24. April 2020 | Ulrich Treber | 3 Kommentare_
 
 Schlechtes Timing. Ich war in eine Menschentraube geraten, die gerade aus einem Bus platzte. Als ich mich durch die Menge manövriert hatte, lief ein Herr in einer schwarzen Jacke und Arbeitshosen vor mir her. Er pellte sich erleichtert die Maske aus dem Gesicht, als wir über den weitläufigen Platz vor dem Wiesbadener Hauptbahnhof in Richtung Schlachthof marschierten. Erst jetzt fiel mir sein Hut auf. Wer trägt heutzutage noch Hut? Die Sonne schien hell, allerdings noch nicht sehr kräftig. Trotzdem veranlasste sie den Herrn seine Jacke auszuziehen. Es dauerte eine Weile, bis er seinen Rucksack vom Rücken gefummelt hatte, um seine Jacke darin zu verstauen. Darunter trug er einen dunkelblauen Pullover. Der dicke Stoff war löchrig und ausgeblichen, hier und da klebten noch halb abgekratzte Farbreste. Bei den Taxiständen trennten sich unsere Wege. Ich bog links ab, um an einer der Bushaltestellen zu warten, der Mann mit Hut folgte der Allee in Richtung Schlachthof. Bevor ich den Herrn aus den Augen verlor, zog er gerade ein Smartphone aus seiner Hosentasche und wischte darauf herum. 
