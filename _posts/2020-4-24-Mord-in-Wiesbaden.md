@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Mord in Wiesbaden
-tags: [Simic, Ramp]
+tags: [Kurzgeschichte]
 ---  
-_24. April 2020 | Ulrich Treber | 3 Kommentare_
+*24. April 2020 / Ulrich Treber / 3 Kommentare*
 
 Schlechtes Timing. Ich war in eine Menschentraube geraten, die gerade aus einem Bus platzte. Als ich mich durch die Menge manövriert hatte, lief ein Herr in einer schwarzen Jacke und Arbeitshosen vor mir her. Er pellte sich erleichtert die Maske aus dem Gesicht, als wir über den weitläufigen Platz vor dem Wiesbadener Hauptbahnhof in Richtung Schlachthof marschierten. Erst jetzt fiel mir sein Hut auf. Wer trägt heutzutage noch Hut? Die Sonne schien hell, allerdings noch nicht sehr kräftig. Trotzdem veranlasste sie den Herrn seine Jacke auszuziehen. Es dauerte eine Weile, bis er seinen Rucksack vom Rücken gefummelt hatte, um seine Jacke darin zu verstauen. Darunter trug er einen dunkelblauen Pullover. Der dicke Stoff war löchrig und ausgeblichen, hier und da klebten noch halb abgekratzte Farbreste. Bei den Taxiständen trennten sich unsere Wege. Ich bog links ab, um an einer der Bushaltestellen zu warten, der Mann mit Hut folgte der Allee in Richtung Schlachthof. Bevor ich den Herrn aus den Augen verlor, zog er gerade ein Smartphone aus seiner Hosentasche und wischte darauf herum. 
 
@@ -32,8 +32,8 @@ Unter Aufsicht hatte man ihm gewährt, einen Stift zu benutzen. Sobald er einen 
 Der eben erzählte Mord geschah in der Nähe des Wiesbadener Hauptbahnhofs am 24. Mai 2020. Man konnte von diesem Fall in den lokalen Zeitungen lesen. Die Berichterstattungen wurden der Realität durchaus gerecht. Dennoch kann ein solcher Beitrag die Wirklichkeit nur sehr oberflächlich nachahmen. Um die wahre Bedeutung eines Mordes für die menschliche Natur zu erfassen, bedarf es mehr als einem Bericht, der sich den augenscheinlichen Fakten verpflichtet. Nur die Methoden der Erzählung vermögen eine Ahnung zu erschaffen, die der Bedeutung eines Mordes gerecht werden kann. Deswegen möchte ich dich als LeserIn dazu ermutigen, die eben gelesene Erzählung vor diesem Hintergrunde erneut zu lesen und bewerten. Zumindest um eine neue Bewertung der vorliegenden Erzählung möchte ich euch bitten.
 ### Kommentare (3)
 **Maria Gugen**
-_\\#1 | 25. April 2020 @ 20:13_ 
+*#1 / 25. April 2020 @ 20:13* 
 **Sebastian Torkratz**
-_\\#2 | 25. April 2020 @ 21:01_ 
+*#2 / 25. April 2020 @ 21:01*
 **Reiner Maria**
-_\\#3 | 26. April 2020 @ 12:22_ 
+*#3 / 26. April 2020 @ 12:22* 
