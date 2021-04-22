@@ -31,9 +31,9 @@ Unter Aufsicht hatte man ihm gewährt, einen Stift zu benutzen. Sobald er einen 
 ## Nachwort
 Der eben erzählte Mord geschah in der Nähe des Wiesbadener Hauptbahnhofs am 24. Mai 2020. Man konnte von diesem Fall in den lokalen Zeitungen lesen. Die Berichterstattungen wurden der Realität durchaus gerecht. Dennoch kann ein solcher Beitrag die Wirklichkeit nur sehr oberflächlich nachahmen. Um die wahre Bedeutung eines Mordes für die menschliche Natur zu erfassen, bedarf es mehr als einem Bericht, der sich den augenscheinlichen Fakten verpflichtet. Nur die Methoden der Erzählung vermögen eine Ahnung zu erschaffen, die der Bedeutung eines Mordes gerecht werden kann. Deswegen möchte ich dich als LeserIn dazu ermutigen, die eben gelesene Erzählung vor diesem Hintergrunde erneut zu lesen und bewerten. Zumindest um eine neue Bewertung der vorliegenden Erzählung möchte ich euch bitten.
 ### Kommentare (3)
-**Maria Gugen**
-*#1 / 25. April 2020 @ 20:13* 
-**Sebastian Torkratz**
-*#2 / 25. April 2020 @ 21:01*
-**Reiner Maria**
-*#3 / 26. April 2020 @ 12:22* 
+**Maria Gugen**  
+*#1 / 25. April 2020 @ 20:13*   
+**Sebastian Torkratz**   
+*#2 / 25. April 2020 @ 21:01*  
+**Reiner Maria**  
+*#3 / 26. April 2020 @ 12:22*  
