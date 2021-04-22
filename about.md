@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-I'm a student who likes to write fiction and non-fiction.
-
-On this blog I am publishing my non-fiction articles about my favorite topics. These topics are primarily: 
-- Magic The Gathering
-- Films
-- Series
-- Podcasts
-- Books
+Ehemaliger Journalist beim Wiesbadener Kurier und freischaffender Autor.
 
 ### Contact me
 
-[florian.delvo@icloud.com](mailto:florian.delvo@icloud.com)
+[ulrich.treber@icloud.com](mailto:ulrich.treber@icloud.com)
