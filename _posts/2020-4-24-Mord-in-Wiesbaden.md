@@ -32,10 +32,10 @@ Unter Aufsicht gewährte man ihm, einen Stift zu benutzen. Sobald er ihn zwische
 ### Kommentare (3)
 **Maria Gugen**  
 *#1 / 25. April 2020 @ 20:13*   
-gibt’s nicht mehr infos zum mörder? also zu seinen motiven oder so klingt schon hart nach creepy pasta
+gibt’s nicht mehr infos zum mörder? also zu seinen motiven oder so klingt schon hart nach creepy pasta  
 **Sebastian Torkratz**   
 *#2 / 25. April 2020 @ 21:01*  
-Warum muss man immer alles wissen? Ich finde es unmoralisch, einen Personenkult um einen Mörder zu errichten. Also ist es gut, dass es nicht mehr Informationen zu den Motiven des Mörders gibt. 
+Warum muss man immer alles wissen? Ich finde es unmoralisch, einen Personenkult um einen Mörder zu errichten. Also ist es gut, dass es nicht mehr Informationen zu den Motiven des Mörders gibt.  
 **Reiner Maria**  
 *#3 / 26. April 2020 @ 12:22*  
 Keine Ahnung, was “creepy pasta” sein soll, aber ein mysteriöser Fall ist das schon. Was ist das für eine Instanz, die sich der Täter einbildet und ihn zum morden antreibt? Der letzte Absatz klingt spannend, aber woher hat Herr Treber die Informationen, auf denen dieser Abschnitt basiert?
